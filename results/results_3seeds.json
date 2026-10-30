@@ -1,0 +1,632 @@
+[
+ {
+  "model": "NCM (11 levels predicted)",
+  "kind": "ncm",
+  "nfe": 11,
+  "train_seed": 0,
+  "sample_seed": 0,
+  "seconds_per_256": 2.342,
+  "gen_ppl": 160.348,
+  "entropy": 3.973
+ },
+ {
+  "model": "NCM (11 levels predicted)",
+  "kind": "ncm",
+  "nfe": 11,
+  "train_seed": 0,
+  "sample_seed": 1,
+  "seconds_per_256": 2.034,
+  "gen_ppl": 159.479,
+  "entropy": 3.974
+ },
+ {
+  "model": "NCM (11 levels predicted)",
+  "kind": "ncm",
+  "nfe": 11,
+  "train_seed": 0,
+  "sample_seed": 2,
+  "seconds_per_256": 2.054,
+  "gen_ppl": 152.091,
+  "entropy": 3.974
+ },
+ {
+  "model": "NCM (11 levels predicted)",
+  "kind": "ncm",
+  "nfe": 11,
+  "train_seed": 1,
+  "sample_seed": 0,
+  "seconds_per_256": 2.019,
+  "gen_ppl": 156.789,
+  "entropy": 3.968
+ },
+ {
+  "model": "NCM (11 levels predicted)",
+  "kind": "ncm",
+  "nfe": 11,
+  "train_seed": 1,
+  "sample_seed": 1,
+  "seconds_per_256": 2.039,
+  "gen_ppl": 148.909,
+  "entropy": 3.965
+ },
+ {
+  "model": "NCM (11 levels predicted)",
+  "kind": "ncm",
+  "nfe": 11,
+  "train_seed": 1,
+  "sample_seed": 2,
+  "seconds_per_256": 2.062,
+  "gen_ppl": 155.202,
+  "entropy": 3.968
+ },
+ {
+  "model": "NCM (11 levels predicted)",
+  "kind": "ncm",
+  "nfe": 11,
+  "train_seed": 2,
+  "sample_seed": 0,
+  "seconds_per_256": 2.06,
+  "gen_ppl": 154.932,
+  "entropy": 3.975
+ },
+ {
+  "model": "NCM (11 levels predicted)",
+  "kind": "ncm",
+  "nfe": 11,
+  "train_seed": 2,
+  "sample_seed": 1,
+  "seconds_per_256": 2.051,
+  "gen_ppl": 153.2,
+  "entropy": 3.982
+ },
+ {
+  "model": "NCM (11 levels predicted)",
+  "kind": "ncm",
+  "nfe": 11,
+  "train_seed": 2,
+  "sample_seed": 2,
+  "seconds_per_256": 2.043,
+  "gen_ppl": 153.435,
+  "entropy": 3.986
+ },
+ {
+  "model": "Masked diffusion, T=8",
+  "kind": "mdlm",
+  "nfe": 8,
+  "train_seed": 0,
+  "sample_seed": 0,
+  "seconds_per_256": 2.31,
+  "gen_ppl": 153.295,
+  "entropy": 4.117
+ },
+ {
+  "model": "Masked diffusion, T=8",
+  "kind": "mdlm",
+  "nfe": 8,
+  "train_seed": 0,
+  "sample_seed": 1,
+  "seconds_per_256": 1.984,
+  "gen_ppl": 151.71,
+  "entropy": 4.113
+ },
+ {
+  "model": "Masked diffusion, T=8",
+  "kind": "mdlm",
+  "nfe": 8,
+  "train_seed": 0,
+  "sample_seed": 2,
+  "seconds_per_256": 1.991,
+  "gen_ppl": 150.761,
+  "entropy": 4.137
+ },
+ {
+  "model": "Masked diffusion, T=8",
+  "kind": "mdlm",
+  "nfe": 8,
+  "train_seed": 1,
+  "sample_seed": 0,
+  "seconds_per_256": 2.082,
+  "gen_ppl": 133.436,
+  "entropy": 4.092
+ },
+ {
+  "model": "Masked diffusion, T=8",
+  "kind": "mdlm",
+  "nfe": 8,
+  "train_seed": 1,
+  "sample_seed": 1,
+  "seconds_per_256": 2.025,
+  "gen_ppl": 132.719,
+  "entropy": 4.085
+ },
+ {
+  "model": "Masked diffusion, T=8",
+  "kind": "mdlm",
+  "nfe": 8,
+  "train_seed": 1,
+  "sample_seed": 2,
+  "seconds_per_256": 2.006,
+  "gen_ppl": 130.826,
+  "entropy": 4.107
+ },
+ {
+  "model": "Masked diffusion, T=8",
+  "kind": "mdlm",
+  "nfe": 8,
+  "train_seed": 2,
+  "sample_seed": 0,
+  "seconds_per_256": 2.052,
+  "gen_ppl": 128.547,
+  "entropy": 4.086
+ },
+ {
+  "model": "Masked diffusion, T=8",
+  "kind": "mdlm",
+  "nfe": 8,
+  "train_seed": 2,
+  "sample_seed": 1,
+  "seconds_per_256": 2.01,
+  "gen_ppl": 133.95,
+  "entropy": 4.091
+ },
+ {
+  "model": "Masked diffusion, T=8",
+  "kind": "mdlm",
+  "nfe": 8,
+  "train_seed": 2,
+  "sample_seed": 2,
+  "seconds_per_256": 2.05,
+  "gen_ppl": 128.613,
+  "entropy": 4.112
+ },
+ {
+  "model": "Masked diffusion, T=16",
+  "kind": "mdlm",
+  "nfe": 16,
+  "train_seed": 0,
+  "sample_seed": 0,
+  "seconds_per_256": 3.752,
+  "gen_ppl": 103.551,
+  "entropy": 4.102
+ },
+ {
+  "model": "Masked diffusion, T=16",
+  "kind": "mdlm",
+  "nfe": 16,
+  "train_seed": 0,
+  "sample_seed": 1,
+  "seconds_per_256": 3.787,
+  "gen_ppl": 100.076,
+  "entropy": 4.124
+ },
+ {
+  "model": "Masked diffusion, T=16",
+  "kind": "mdlm",
+  "nfe": 16,
+  "train_seed": 0,
+  "sample_seed": 2,
+  "seconds_per_256": 3.765,
+  "gen_ppl": 100.33,
+  "entropy": 4.113
+ },
+ {
+  "model": "Masked diffusion, T=16",
+  "kind": "mdlm",
+  "nfe": 16,
+  "train_seed": 1,
+  "sample_seed": 0,
+  "seconds_per_256": 3.768,
+  "gen_ppl": 88.175,
+  "entropy": 4.064
+ },
+ {
+  "model": "Masked diffusion, T=16",
+  "kind": "mdlm",
+  "nfe": 16,
+  "train_seed": 1,
+  "sample_seed": 1,
+  "seconds_per_256": 3.815,
+  "gen_ppl": 85.597,
+  "entropy": 4.067
+ },
+ {
+  "model": "Masked diffusion, T=16",
+  "kind": "mdlm",
+  "nfe": 16,
+  "train_seed": 1,
+  "sample_seed": 2,
+  "seconds_per_256": 3.833,
+  "gen_ppl": 87.659,
+  "entropy": 4.07
+ },
+ {
+  "model": "Masked diffusion, T=16",
+  "kind": "mdlm",
+  "nfe": 16,
+  "train_seed": 2,
+  "sample_seed": 0,
+  "seconds_per_256": 3.824,
+  "gen_ppl": 84.209,
+  "entropy": 4.043
+ },
+ {
+  "model": "Masked diffusion, T=16",
+  "kind": "mdlm",
+  "nfe": 16,
+  "train_seed": 2,
+  "sample_seed": 1,
+  "seconds_per_256": 3.81,
+  "gen_ppl": 86.24,
+  "entropy": 4.096
+ },
+ {
+  "model": "Masked diffusion, T=16",
+  "kind": "mdlm",
+  "nfe": 16,
+  "train_seed": 2,
+  "sample_seed": 2,
+  "seconds_per_256": 3.807,
+  "gen_ppl": 83.004,
+  "entropy": 4.077
+ },
+ {
+  "model": "Masked diffusion, T=32",
+  "kind": "mdlm",
+  "nfe": 32,
+  "train_seed": 0,
+  "sample_seed": 0,
+  "seconds_per_256": 7.334,
+  "gen_ppl": 73.731,
+  "entropy": 4.084
+ },
+ {
+  "model": "Masked diffusion, T=32",
+  "kind": "mdlm",
+  "nfe": 32,
+  "train_seed": 0,
+  "sample_seed": 1,
+  "seconds_per_256": 7.36,
+  "gen_ppl": 75.753,
+  "entropy": 4.084
+ },
+ {
+  "model": "Masked diffusion, T=32",
+  "kind": "mdlm",
+  "nfe": 32,
+  "train_seed": 0,
+  "sample_seed": 2,
+  "seconds_per_256": 7.33,
+  "gen_ppl": 74.197,
+  "entropy": 4.089
+ },
+ {
+  "model": "Masked diffusion, T=32",
+  "kind": "mdlm",
+  "nfe": 32,
+  "train_seed": 1,
+  "sample_seed": 0,
+  "seconds_per_256": 7.343,
+  "gen_ppl": 66.069,
+  "entropy": 4.061
+ },
+ {
+  "model": "Masked diffusion, T=32",
+  "kind": "mdlm",
+  "nfe": 32,
+  "train_seed": 1,
+  "sample_seed": 1,
+  "seconds_per_256": 7.423,
+  "gen_ppl": 70.092,
+  "entropy": 4.063
+ },
+ {
+  "model": "Masked diffusion, T=32",
+  "kind": "mdlm",
+  "nfe": 32,
+  "train_seed": 1,
+  "sample_seed": 2,
+  "seconds_per_256": 7.36,
+  "gen_ppl": 66.194,
+  "entropy": 4.066
+ },
+ {
+  "model": "Masked diffusion, T=32",
+  "kind": "mdlm",
+  "nfe": 32,
+  "train_seed": 2,
+  "sample_seed": 0,
+  "seconds_per_256": 7.341,
+  "gen_ppl": 62.755,
+  "entropy": 4.065
+ },
+ {
+  "model": "Masked diffusion, T=32",
+  "kind": "mdlm",
+  "nfe": 32,
+  "train_seed": 2,
+  "sample_seed": 1,
+  "seconds_per_256": 7.443,
+  "gen_ppl": 65.515,
+  "entropy": 4.073
+ },
+ {
+  "model": "Masked diffusion, T=32",
+  "kind": "mdlm",
+  "nfe": 32,
+  "train_seed": 2,
+  "sample_seed": 2,
+  "seconds_per_256": 7.417,
+  "gen_ppl": 64.699,
+  "entropy": 4.073
+ },
+ {
+  "model": "Masked diffusion, T=64",
+  "kind": "mdlm",
+  "nfe": 64,
+  "train_seed": 0,
+  "sample_seed": 0,
+  "seconds_per_256": 14.456,
+  "gen_ppl": 65.713,
+  "entropy": 4.075
+ },
+ {
+  "model": "Masked diffusion, T=64",
+  "kind": "mdlm",
+  "nfe": 64,
+  "train_seed": 0,
+  "sample_seed": 1,
+  "seconds_per_256": 14.511,
+  "gen_ppl": 66.787,
+  "entropy": 4.085
+ },
+ {
+  "model": "Masked diffusion, T=64",
+  "kind": "mdlm",
+  "nfe": 64,
+  "train_seed": 0,
+  "sample_seed": 2,
+  "seconds_per_256": 14.439,
+  "gen_ppl": 64.393,
+  "entropy": 4.092
+ },
+ {
+  "model": "Masked diffusion, T=64",
+  "kind": "mdlm",
+  "nfe": 64,
+  "train_seed": 1,
+  "sample_seed": 0,
+  "seconds_per_256": 14.684,
+  "gen_ppl": 61.991,
+  "entropy": 4.05
+ },
+ {
+  "model": "Masked diffusion, T=64",
+  "kind": "mdlm",
+  "nfe": 64,
+  "train_seed": 1,
+  "sample_seed": 1,
+  "seconds_per_256": 14.697,
+  "gen_ppl": 59.812,
+  "entropy": 4.06
+ },
+ {
+  "model": "Masked diffusion, T=64",
+  "kind": "mdlm",
+  "nfe": 64,
+  "train_seed": 1,
+  "sample_seed": 2,
+  "seconds_per_256": 14.742,
+  "gen_ppl": 60.591,
+  "entropy": 4.064
+ },
+ {
+  "model": "Masked diffusion, T=64",
+  "kind": "mdlm",
+  "nfe": 64,
+  "train_seed": 2,
+  "sample_seed": 0,
+  "seconds_per_256": 14.55,
+  "gen_ppl": 56.888,
+  "entropy": 4.042
+ },
+ {
+  "model": "Masked diffusion, T=64",
+  "kind": "mdlm",
+  "nfe": 64,
+  "train_seed": 2,
+  "sample_seed": 1,
+  "seconds_per_256": 14.601,
+  "gen_ppl": 56.294,
+  "entropy": 4.048
+ },
+ {
+  "model": "Masked diffusion, T=64",
+  "kind": "mdlm",
+  "nfe": 64,
+  "train_seed": 2,
+  "sample_seed": 2,
+  "seconds_per_256": 14.546,
+  "gen_ppl": 57.166,
+  "entropy": 4.062
+ },
+ {
+  "model": "Masked diffusion, T=128",
+  "kind": "mdlm",
+  "nfe": 128,
+  "train_seed": 0,
+  "sample_seed": 0,
+  "seconds_per_256": 29.029,
+  "gen_ppl": 62.365,
+  "entropy": 4.077
+ },
+ {
+  "model": "Masked diffusion, T=128",
+  "kind": "mdlm",
+  "nfe": 128,
+  "train_seed": 0,
+  "sample_seed": 1,
+  "seconds_per_256": 29.168,
+  "gen_ppl": 62.436,
+  "entropy": 4.08
+ },
+ {
+  "model": "Masked diffusion, T=128",
+  "kind": "mdlm",
+  "nfe": 128,
+  "train_seed": 0,
+  "sample_seed": 2,
+  "seconds_per_256": 29.058,
+  "gen_ppl": 59.91,
+  "entropy": 4.084
+ },
+ {
+  "model": "Masked diffusion, T=128",
+  "kind": "mdlm",
+  "nfe": 128,
+  "train_seed": 1,
+  "sample_seed": 0,
+  "seconds_per_256": 29.094,
+  "gen_ppl": 55.735,
+  "entropy": 4.063
+ },
+ {
+  "model": "Masked diffusion, T=128",
+  "kind": "mdlm",
+  "nfe": 128,
+  "train_seed": 1,
+  "sample_seed": 1,
+  "seconds_per_256": 29.248,
+  "gen_ppl": 56.677,
+  "entropy": 4.047
+ },
+ {
+  "model": "Masked diffusion, T=128",
+  "kind": "mdlm",
+  "nfe": 128,
+  "train_seed": 1,
+  "sample_seed": 2,
+  "seconds_per_256": 29.283,
+  "gen_ppl": 57.253,
+  "entropy": 4.066
+ },
+ {
+  "model": "Masked diffusion, T=128",
+  "kind": "mdlm",
+  "nfe": 128,
+  "train_seed": 2,
+  "sample_seed": 0,
+  "seconds_per_256": 28.997,
+  "gen_ppl": 53.335,
+  "entropy": 4.053
+ },
+ {
+  "model": "Masked diffusion, T=128",
+  "kind": "mdlm",
+  "nfe": 128,
+  "train_seed": 2,
+  "sample_seed": 1,
+  "seconds_per_256": 28.923,
+  "gen_ppl": 55.625,
+  "entropy": 4.061
+ },
+ {
+  "model": "Masked diffusion, T=128",
+  "kind": "mdlm",
+  "nfe": 128,
+  "train_seed": 2,
+  "sample_seed": 2,
+  "seconds_per_256": 29.188,
+  "gen_ppl": 54.115,
+  "entropy": 4.064
+ },
+ {
+  "model": "Autoregressive",
+  "kind": "ar",
+  "nfe": 128,
+  "train_seed": 0,
+  "sample_seed": 0,
+  "seconds_per_256": 6.108,
+  "gen_ppl": 15.345,
+  "entropy": 4.022
+ },
+ {
+  "model": "Autoregressive",
+  "kind": "ar",
+  "nfe": 128,
+  "train_seed": 0,
+  "sample_seed": 1,
+  "seconds_per_256": 6.158,
+  "gen_ppl": 14.265,
+  "entropy": 3.993
+ },
+ {
+  "model": "Autoregressive",
+  "kind": "ar",
+  "nfe": 128,
+  "train_seed": 0,
+  "sample_seed": 2,
+  "seconds_per_256": 6.162,
+  "gen_ppl": 14.177,
+  "entropy": 4.019
+ },
+ {
+  "model": "Autoregressive",
+  "kind": "ar",
+  "nfe": 128,
+  "train_seed": 1,
+  "sample_seed": 0,
+  "seconds_per_256": 6.191,
+  "gen_ppl": 15.404,
+  "entropy": 4.033
+ },
+ {
+  "model": "Autoregressive",
+  "kind": "ar",
+  "nfe": 128,
+  "train_seed": 1,
+  "sample_seed": 1,
+  "seconds_per_256": 5.599,
+  "gen_ppl": 15.177,
+  "entropy": 4.02
+ },
+ {
+  "model": "Autoregressive",
+  "kind": "ar",
+  "nfe": 128,
+  "train_seed": 1,
+  "sample_seed": 2,
+  "seconds_per_256": 6.017,
+  "gen_ppl": 14.95,
+  "entropy": 4.026
+ },
+ {
+  "model": "Autoregressive",
+  "kind": "ar",
+  "nfe": 128,
+  "train_seed": 2,
+  "sample_seed": 0,
+  "seconds_per_256": 7.361,
+  "gen_ppl": 14.592,
+  "entropy": 4.022
+ },
+ {
+  "model": "Autoregressive",
+  "kind": "ar",
+  "nfe": 128,
+  "train_seed": 2,
+  "sample_seed": 1,
+  "seconds_per_256": 7.188,
+  "gen_ppl": 14.048,
+  "entropy": 4.012
+ },
+ {
+  "model": "Autoregressive",
+  "kind": "ar",
+  "nfe": 128,
+  "train_seed": 2,
+  "sample_seed": 2,
+  "seconds_per_256": 7.436,
+  "gen_ppl": 14.446,
+  "entropy": 4.018
+ }
+]
