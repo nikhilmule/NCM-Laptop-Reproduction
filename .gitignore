@@ -1,0 +1,5 @@
+ncm_experiment/
+*.pt
+*.zip
+.ipynb_checkpoints/
+__pycache__/
