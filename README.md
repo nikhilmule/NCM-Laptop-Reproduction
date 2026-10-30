@@ -4,7 +4,7 @@
 This repo reproduces the authors' released TinyStories model, then runs a controlled three-way race between NCM, masked diffusion and a left-to-right (GPT-style) model, all trained from scratch on an RTX 4070 Laptop GPU (8 GB).
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/<your-username>/<your-repo>/blob/main/ncm_tinystories_experiment.ipynb)
-&nbsp;📄 [Article]([<your-article-link>](https://medium.com/@nikhilrajm78/stanford-says-this-ai-writes-up-to-31-faster-i-tested-it-on-my-laptop-e5e3b7f725a9)) &nbsp;·&nbsp; 🎬 [60-second video](<your-video-link>) &nbsp;·&nbsp; 📑 [Paper (arXiv:2610.14162)](https://arxiv.org/abs/2610.14162)
+&nbsp;📄 [Article](https://medium.com/@nikhilrajm78/stanford-says-this-ai-writes-up-to-31-faster-i-tested-it-on-my-laptop-e5e3b7f725a9) &nbsp;·&nbsp; 🎬 [60-second video](<your-video-link>) &nbsp;·&nbsp; 📑 [Paper (arXiv:2610.14162)](https://arxiv.org/abs/2610.14162)
 
 ![At the same speed, masked diffusion beat NCM in all 3 training seeds](assets/fig_results.png)
 
